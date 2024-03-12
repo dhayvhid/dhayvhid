@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dhayvhid
+- 👋 Hi, I’m @David
 - 👀 I’m interested in ... Web Application
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Java/ Spring Boot
 - 💞️ I’m looking to collaborate on ... Any proiect
 - 📫 How to reach me ... twitter @Raged_beast 
 
