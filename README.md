@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @David
 - 👀 I’m interested in ... Web Application
 - 🌱 I’m currently learning ... Java/ Spring Boot
-- 💞️ I’m looking to collaborate on ... Any proiect
+- 💞️ I’m looking to collaborate on ... Any project
 - 📫 How to reach me ... twitter @Raged_beast 
 
 <!---
